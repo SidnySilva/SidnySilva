@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sidny</h1>
+<h1 align="center">Hi 👋, I'm Sid</h1>
 <h3 align="center">A passionate fullstack developer from Brazil, who loves coding, learning, playing and beating challenges.</h3>
 
 <hr>
