@@ -1,18 +1,3 @@
-<style>
-    body{
-        background-color:#1a1b27;
-        color:#38bdae;
-    }
-    .teste{
-        border:2px solid #bf91f3;
-        background-color:#1a1b27;
-    }
-    img{
-        background-color:white;
-        border-radius:5px;
-    }
-    
-</style>
 
 <h1 align="center">Hi 👋, I'm Sidny</h1>
 <h3 align="center">A passionate fullstack developer from Brazil, who loves coding, learning, playing and beating challenges.</h3>
