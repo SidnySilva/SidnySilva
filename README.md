@@ -101,3 +101,7 @@
 &nbsp;
 
 <p align="center" ><img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidnysilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sidnysilva" /></p>
+
+![snake gif]
+(https://github.com/SidnySilva/SidnySilva/blob/output/github-contribution-grid-snake.gif)
+
