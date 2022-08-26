@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **sidny.galaxy@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/sidny-silva-a62829155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidny-silva-a62829155/" height="30" width="40" /></a>
 </p>
 
