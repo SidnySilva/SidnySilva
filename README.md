@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidny</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidnysilva" alt="sidnysilva" /></a> </p>
+<p align="center" wrap="wrap"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidnysilva" alt="sidnysilva" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://my-home-git-main-soudyy.vercel.app/](https://my-home-git-main-soudyy.vercel.app/)
 
