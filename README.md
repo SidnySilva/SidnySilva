@@ -1,17 +1,29 @@
-
 <h1 align="center">Hi 👋, I'm Sidny</h1>
 <h3 align="center">A passionate fullstack developer from Brazil, who loves coding, learning, playing and beating challenges.</h3>
 
 <hr>
+&nbsp;
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sidnysilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sidnysilva" /></p>
-
-<hr>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sidnysilva&show_icons=true&theme=tokyonight&locale=en" alt="sidnysilva" /></p>
+&nbsp;
+
 <hr>
 
+<h2 align="center">Contacts:</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sidny-silva-a62829155/" target="_blank">
+    <img src="https://img.shields.io/badge/-Sidny-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:sidny.galaxy@gmail.com">
+    <img src="https://img.shields.io/badge/-sidny.galaxy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</div>
+&nbsp;
+
+<hr>
 <h2 align="center">Languages and Tools:</h2>
+&nbsp;
 
 <table class="teste" align="center" border="2">
 
@@ -84,3 +96,8 @@
 <td>Linux, Git</td>
 </tr>
 </table>
+&nbsp;
+<hr >
+&nbsp;
+
+<p align="center" ><img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidnysilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sidnysilva" /></p>
